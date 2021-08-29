@@ -21,6 +21,7 @@ public static void main(String[] args) {
 	Constructor c= new Constructor();
 	Constructor1 d=new Constructor1();
 	Constructor2 e=new Constructor2();
+	System.out.println("worked");
 }
 	
 }	
